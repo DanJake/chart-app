@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mywebchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-10T16:09:16.159698559+02:00"
+    description: A Helm chart for Kubernetes
+    digest: d56c208a74e69facf60b9ab2d6044f7932f687fbb66814dd4cb1ca464ab3181c
+    name: mywebchart
+    type: application
+    urls:
+    - https://danjake.github.io/chart-app/mywebchart-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-03-10T16:09:16.159115344+02:00"
